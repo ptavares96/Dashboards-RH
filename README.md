@@ -92,10 +92,12 @@ Outra modificação foi a exclusão de uma coluna de "Contagem de Funcionários"
 <p align="center">
   <img src="https://github.com/ptavares96/Dashboards-RH/blob/main/Imagens/Relat%C3%B3rio_page-0001.jpg" alt="Exemplo de Imagem" width="1000">
 </p>
+
 ### Dashboard 2
 <p align="center">
   <img src="https://github.com/ptavares96/Dashboards-RH/blob/main/Imagens/Relat%C3%B3rio_page-0002.jpg" alt="Exemplo de Imagem" width="1000">
 </p>
+
 ### Dashborad 3
 <p align="center">
   <img src="https://github.com/ptavares96/Dashboards-RH/blob/main/Imagens/Relat%C3%B3rio_page-0003.jpg" alt="Exemplo de Imagem" width="1000">
