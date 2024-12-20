@@ -88,20 +88,44 @@ Outra modificação foi a exclusão de uma coluna de "Contagem de Funcionários"
 **Anos com o Gerente Atual:** Número de anos que o funcionário trabalha com o gerente atual
 
 ## Dashboards
-### Dashboard 1
+No primeiro Dashborad vemos que:
+* O total de funcionários que esta empresa já teve é de **1480**.
+* Atualmete a empresa conta com **1242** funcionários.
+* A taxa de desligamento da empresa é de **16,1%**.
+* A média de satisfação dos funcionários ativos com abiente e trabalho é de **2,8**.
+* A média de equilíbrio de trabalho-vida e o envolvimento no trabalho dos funcionários ativos é de **2,8%**.
+* Maior parte dos funcionários estão no setor de Pesquisa e Desenvolvimento.
+* O setor de Vendas possui a maior taxa de desligamento de **20,7%**
+* Há mais funcionários nas funções de Executivo de Vendas.
+* Representante de Vendas é onde há mais desligamento com **39,3%** de taxa.
 
-
-### Dashboard 2
 <p align="center">
-  <img src="https://github.com/ptavares96/Dashboards-RH/blob/main/Imagens/Relat%C3%B3rio_page-0002.jpg" alt="Exemplo de Imagem" width="1000">
+  <img src="https://github.com/ptavares96/Dashboards-RH/blob/main/Imagens/Relat%C3%B3rio%20RH_page-0001.jpg" alt="Exemplo de Imagem" width="1000">
 </p>
 
-### Dashborad 3
+No segundo Dashboard:
+* A maior parte dos funcionários possuem idade entre 26 e 35 anos.
+* **50,42%** dos Funcionários são do gênero masculino e **40,58%** de gênero feminino.
+* **47,91%** dos funcionários são casados, **23,67%** são divorciados e **28,42%** são solteiros.
+* Maior parte dos funcionários são formados na área de Ciências Biológicas.
+* Maior parte dos funcioários estão nível de Educação (3) que corresponde ao Ensino Médio completo. 
+
 <p align="center">
-  <img src="https://github.com/ptavares96/Dashboards-RH/blob/main/Imagens/Relat%C3%B3rio_page-0003.jpg" alt="Exemplo de Imagem" width="1000">
+  <img src="https://github.com/ptavares96/Dashboards-RH/blob/main/Imagens/Relat%C3%B3rio%20RH_page-0002.jpg" alt="Exemplo de Imagem" width="1000">
 </p>
 
-## Conclusão
-A construção dos três dashboards demonstrou habilidades essenciais em análise de dados e visualização, envolvendo o uso avançado do Power BI para transformar grandes volumes de dados em insights acionáveis. A criação de relatórios dinâmicos e interativos, com foco em métricas-chave, facilitou a tomada de decisões estratégicas. A integração de fontes de dados diversas e a personalização de visualizações reforçam a capacidade de atender às necessidades específicas de cada área. Além disso, o trabalho evidenciou a importância da clareza na comunicação dos resultados por meio de dashboards intuitivos e de fácil interpretação.
+Sobre o Dashboard 3:
+* A média de salário na empresa é de **R$6500,00**.
+* **39,9%** dos funcionários já receberam alguma promoção.
+* O aumento salarial dos funcionários é de **15,2%**.
+* **71,9%** dos funcionários raramente viajam a trabalho, **16,9%** viajam frequentemente e **11,2%** não viajam.
+* **76,7%** dos funcionários não fazem horas extras enquanto **23,3%** dos funcionários realizam.
+* A maior parte dos funcionários recebem menos de R$5000,00.
+* 7 anos é a média que um funcionário permanece na empresa.
+* Em média um funcionário fica 4 anos na mesma função.
+* 2 anos é média que um funcionário recebe uma promoção. 
+<p align="center">
+  <img src="https://github.com/ptavares96/Dashboards-RH/blob/main/Imagens/Relat%C3%B3rio%20RH_page-0003.jpg" alt="Exemplo de Imagem" width="1000">
+</p>
 
 
